@@ -8,3 +8,9 @@
   border-bottom: 1px solid #21212166;
   justify-content: center;
 }
+
+@media screen and (max-width: 900px) {
+  .cards {
+    gap: 20px;
+  }
+}
